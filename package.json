@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "git": "^0.1.5",
+    "ibmmq": "^2.1.0",
+    "nodemon": "^3.1.6",
+    "solace": "^1.2.0",
+    "solclientjs": "^10.17.0"
+  }
+}
